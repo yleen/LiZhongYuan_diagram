@@ -1,6 +1,6 @@
 # LiZhongYuan diagram generate code
 
-LiZhongYuan diagram is a special Cayley table for complete sequential operation.
+LiZhongYuan diagram is a special Cayley table for complete sequential operation in paper "Optional intervals event, sequential operation and their applications in physics, computer science and applied mathematics".
 
 # Pictures
 ## 8-Dimensions LiZhongYuan diagram
