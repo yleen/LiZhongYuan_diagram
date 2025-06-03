@@ -3,8 +3,17 @@
 LiZhongYuan diagram is a special Cayley table for complete sequential operation.
 
 # Pictures
-## 8-Dimension LiZhongYuan diagram
+## 8-Dimensions LiZhongYuan diagram
 <img src="./pics/8.png">
+
+## 7-Dimensions LiZhongYuan diagram
+<img src="./pics/7.png">
+
+## 6-Dimensions LiZhongYuan diagram
+<img src="./pics/6.png">
+
+## 5-Dimensions LiZhongYuan diagram
+<img src="./pics/5.png">
 
 # The paper links
 
