@@ -4,7 +4,7 @@ LiZhongYuan diagram is a special Cayley table for complete sequential operation.
 
 # Pictures
 ## 8-Dimension LiZhongYuan diagram
-<img src="./pics/8.png" width="600" height="600">
+<img src="./pics/8.png">
 
 # The paper links
 
