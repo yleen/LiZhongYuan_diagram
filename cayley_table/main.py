@@ -330,15 +330,15 @@ if __name__ == '__main__':
     #                                       p_err_elem_mark=err_elem_mark)
 
     # 6 OIEs
-    dpi: int = 1000
-    contain_zero = True
-    font_size: float = 4
-    no_tick_marks: bool = False
-    binomial_theorem_collection: List[List[str]] \
-        = gen_binomial_theorem_collection(p_elements=elements6,
-                                          p_contain_zero=contain_zero,
-                                          p_zero_elem_mark=zero_elem_mark,
-                                          p_err_elem_mark=err_elem_mark)
+    # dpi: int = 1000
+    # contain_zero = True
+    # font_size: float = 4
+    # no_tick_marks: bool = False
+    # binomial_theorem_collection: List[List[str]] \
+    #     = gen_binomial_theorem_collection(p_elements=elements6,
+    #                                       p_contain_zero=contain_zero,
+    #                                       p_zero_elem_mark=zero_elem_mark,
+    #                                       p_err_elem_mark=err_elem_mark)
 
     # # 7 OIEs
     # dpi: int = 2000
@@ -363,15 +363,15 @@ if __name__ == '__main__':
     #                                       p_err_elem_mark=err_elem_mark)
 
     # 9 OIEs
-    # dpi: int = 3000
-    # contain_zero = True
-    # font_size: float = 0.45
-    # no_tick_marks: bool = True
-    # binomial_theorem_collection: List[List[str]] \
-    #     = gen_binomial_theorem_collection(p_elements=elements9,
-    #                                       p_contain_zero=contain_zero,
-    #                                       p_zero_elem_mark=zero_elem_mark,
-    #                                       p_err_elem_mark=err_elem_mark)
+    dpi: int = 3000
+    contain_zero = True
+    font_size: float = 0.45
+    no_tick_marks: bool = True
+    binomial_theorem_collection: List[List[str]] \
+        = gen_binomial_theorem_collection(p_elements=elements9,
+                                          p_contain_zero=contain_zero,
+                                          p_zero_elem_mark=zero_elem_mark,
+                                          p_err_elem_mark=err_elem_mark)
 
     headers: List[str] = gen_all_combos(binomial_theorem_collection)
 
